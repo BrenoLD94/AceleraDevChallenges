@@ -32,4 +32,4 @@ Algumas alterações que podem ser feitas, no futuro, para melhorar a eficiênci
 
 Uma das maiores dificuldades que tive durante esse desafio foi o fato de eu nunca ter mexido com problemas não-supervisionados e ter tido pouco tempo, dentro da minha rotina, para estudar. Porém, o treinamento e o desafio final me ajudaram muito a expandir minha visão.
 
-Obrigado __Codenation__!.
+Obrigado __Codenation__!
